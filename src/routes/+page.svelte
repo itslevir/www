@@ -1,6 +1,6 @@
 <script lang="ts">
 	import Button from '$lib/Button.svelte';
-	import Image from 'svimg';
+	import avatar from '../static/avatar.png';
 </script>
 
 <svelte:head>
@@ -9,7 +9,7 @@
 </svelte:head>
 
 <div class="home">
-	<Image src="avatar.png" alt="altude" class="icon" />
+	<img src={avatar} alt="altude" class="icon" />
 	<h1>Hi.</h1>
 	<p>
 		My name is <strong>altude</strong> and I'm a <strong>web developer</strong> from
