@@ -9,7 +9,7 @@
 </svelte:head>
 
 <div class="home">
-	<img src={avatar} alt="altude" class="icon" />
+	<img src={avatar} alt="altude" class="icon" width={64} height={64} />
 	<h1>Hi.</h1>
 	<p>
 		My name is <strong>altude</strong> and I'm a <strong>web developer</strong> from
