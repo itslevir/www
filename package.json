@@ -12,7 +12,6 @@
 		"format": "prettier --plugin-search-dir . --write ."
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-auto": "^1.0.0",
 		"@sveltejs/kit": "^1.0.0",
 		"@typescript-eslint/eslint-plugin": "^5.45.0",
 		"@typescript-eslint/parser": "^5.45.0",
@@ -32,6 +31,7 @@
 	"dependencies": {
 		"@fontsource/jetbrains-mono": "^4.5.11",
 		"@fontsource/plus-jakarta-sans": "^4.5.10",
+		"@sveltejs/adapter-cloudflare": "^1.0.0",
 		"normalize.css": "^8.0.1",
 		"prefixfree": "^1.0.0"
 	}
