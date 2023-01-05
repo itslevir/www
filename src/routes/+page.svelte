@@ -1,6 +1,6 @@
 <script lang="ts">
 	import Button from '$lib/Button.svelte';
-	import avatar from '../static/avatar.png';
+	import avatar from '$lib/static/avatar.png';
 </script>
 
 <svelte:head>
