@@ -24,6 +24,10 @@
 		font-family: 'Plus Jakarta SansVariable', sans-serif;
 	}
 
+	:global(html, body) {
+		overflow: hidden;
+	}
+
 	.layout-content {
 		height: 100vh;
 		width: 100vw;
