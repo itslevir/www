@@ -1,18 +1,18 @@
 <script lang="ts">
 	import Button from '$lib/Button.svelte';
-	import avatar from '$lib/static/avatar.png';
+	import avatar from '$lib/static/avatar.jpg';
 </script>
 
 <svelte:head>
-	<title>altude</title>
-	<meta name="description" content="altude's personal website" />
+	<title>Levi Richardson - Developer, Photographer, and Designer</title>
+	<meta name="description" content="Levi's personal website" />
 </svelte:head>
 
 <div class="home">
-	<img src={avatar} alt="altude" class="icon" width={64} height={64} />
+	<img src={avatar} alt="Levi's Face" class="icon" width={64} height={64} />
 	<h1>Hi.</h1>
 	<p>
-		My name is <strong>altude</strong> and I'm a <strong>web developer</strong> from
+		My name is <strong>Levi</strong> and I'm a <strong>web developer</strong> from
 		<strong>Seattle, WA</strong>.
 	</p>
 	<div class="links">

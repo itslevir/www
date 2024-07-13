@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>altude's whoami</title>
+	<title>$ sudo whoami</title>
 </svelte:head>
 
 <main>
@@ -11,15 +11,15 @@
 		<code>$&nbsp;whoami</code>
 	</h1>
 	<p class="appear">
-		<code>name: 'altude'</code>
-		<code>age: 14</code>
+		<code>name: 'Levi Richardson'</code>
+		<code>age: 15</code>
 		<code>location: 'Seattle'</code>
 		<code>languages: ['JS/TS', 'Go', 'Python']</code>
 		<code>frameworks: ['Svelte', 'React', 'Express']</code>
 		<code>tools: ['VS Code', 'Git', 'GitHub', 'Vercel', 'Railway']</code>
 		<code>hobbies: ['Programming', 'Skiing', 'Biking']</code>
 		<code>pronouns: ['he', 'him']</code>
-		<code>contact: <a href="mailto:altude@skiff.com">altude@skiff.com</a></code>
+		<code>contact: <a href="mailto:hi@itslevir.com">hi@itslevir.com</a></code>
 	</p>
 </main>
 

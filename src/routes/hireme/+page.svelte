@@ -39,7 +39,7 @@
 		</tbody>
 	</table>
 	<a
-		href="mailto:altude@skiff.com?subject=I'd%20like%20to%20hire%20you!&body=Please%20include%20a%20description%20of%20what%20you%20would%20like%2C%20as%20well%20as%20a%20set%20deadline.%20If%20you%20have%20any%20price%20limits%2C%20please%20also%20include%20those."
+		href="mailto:hi@itslevir.com?subject=I'd%20like%20to%20hire%20you!&body=Please%20include%20a%20description%20of%20what%20you%20would%20like%2C%20as%20well%20as%20a%20set%20deadline.%20If%20you%20have%20any%20price%20limits%2C%20please%20also%20include%20those."
 	>
 		<Button text="Get in touch" />
 	</a>

@@ -1,6 +1,6 @@
 <header>
 	<a href="/">
-		<h1>Altude</h1>
+		<h1>Levi R.</h1>
 	</a>
 	<nav>
 		<a href="/hireme">Hire me</a>
