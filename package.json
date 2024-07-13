@@ -30,7 +30,6 @@
 	"dependencies": {
 		"@fontsource/jetbrains-mono": "^4.5.11",
 		"@fontsource/plus-jakarta-sans": "^4.5.10",
-		"@sveltejs/adapter-cloudflare": "^1.0.0",
 		"normalize.css": "^8.0.1",
 		"prefixfree": "^1.0.0"
 	}
